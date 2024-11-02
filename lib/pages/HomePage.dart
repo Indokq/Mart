@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:widget_text/widgets/AllFood.dart';
 import 'package:widget_text/widgets/AppBarWidget.dart';
-import 'package:widget_text/widgets/CatgoriesWidget.dart';
+import 'package:widget_text/widgets/CategoriesWidget.dart';
 
 class Homepage extends StatelessWidget {
   @override
